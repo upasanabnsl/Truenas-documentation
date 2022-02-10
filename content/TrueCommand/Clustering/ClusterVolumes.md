@@ -69,7 +69,7 @@ At least three bricks are needed to create a volume. For further redundancy, add
 A three brick volume has three replicas, while a four brick volume contains four replicas. 
 A replicated volume allows data access even if a single brick fails. 
 
-Click the **Brick Choices** <i class="fa-solid fa-sort-down"></i> and select the locations to use for bricks on the drop-down list.
+Click the **Brick Choices** <i class="fa-solid fa-sort-down" aria-hidden="true" title="Sort-down"></i> and select the locations to use for bricks on the drop-down list.
 
 ![ReplicatedClusterSelectBrickLocations](/images/TrueCommand/2.0/ReplicatedClusterSelectBrickLocations.png "ReplicatedClusterSelectBrickLocations")
 
